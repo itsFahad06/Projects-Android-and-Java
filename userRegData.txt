@@ -1,0 +1,8 @@
+Name: fahad
+Email: fahad12@gmail.com
+Password: 12345678
+IsRegistered: true
+Name: fahad Khan
+Email: ex1@gmail.com
+Password: 12345678
+IsRegistered: true
